@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yumulak
 -  I’m interested in learning and building my software dev experience 
--  I’m currently learning C# and Unity. Will soon move on to DevOps and then Java.
+-  I’m currently learning C# and Unity. 
 -  I’m looking to collaborate on anything I can!
