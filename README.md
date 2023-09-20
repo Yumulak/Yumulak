@@ -20,7 +20,7 @@
   </tr>
   <tr>
   <td>
-    ✨ I love to create different types of games and applications.
+    ✨ I love to create both games and applications.
   </td>  
   </tr>
   </table>
