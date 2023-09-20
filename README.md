@@ -6,8 +6,8 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      🌱 I am currently learning **Java** and also interested in **Web Development**.
+      🎓 I am currently enrolled in Microsoft Software & Systems Academy and pursuing my **Bachelor's in Information Technology**.
+      🌱 I am currently learning **C#** and **.NET**.
       🎯 My Goal is to Contribute to as many **open source project** as possible.
       ✨ I love to create different types of **contents**.
     
