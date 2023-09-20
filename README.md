@@ -10,12 +10,18 @@
     </td> 
   </tr>
   <tr>
+    <td>
       🌱 I am currently learning C# and .NET.
+    </td>  
   </tr>  
   <tr>
-  🎯 My Goal is to build meaningful projects wether it be to myself or others.
+  <td>
+    🎯 My Goal is to build meaningful projects wether it be to myself or others.
+  </td>
   </tr>
   <tr>
-  ✨ I love to create different types of games and applications.
+  <td>
+    ✨ I love to create different types of games and applications.
+  </td>  
   </tr>
   </table>
