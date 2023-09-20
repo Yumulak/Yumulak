@@ -4,11 +4,16 @@
 ### Looking to collaborate on anything I can!
 #
 <table>
+  <tr>    
+  🎓 I am currently enrolled in Microsoft Software & Systems Academy and pursuing my Bachelor's in Information Technology.
+  </tr>
   <tr>
-    <td valign="center">
-      🎓 I am currently enrolled in Microsoft Software & Systems Academy and pursuing my Bachelor's in Information Technology.
       🌱 I am currently learning C# and .NET.
-      🎯 My Goal is to build meaningful projects wether it be to myself or others.
-      ✨ I love to create different types of games and applications.
+  </tr>  
+  <tr>
+  🎯 My Goal is to build meaningful projects wether it be to myself or others.
+  </tr>
+  <tr>
+  ✨ I love to create different types of games and applications.
   </tr>
   </table>
