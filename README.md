@@ -4,8 +4,10 @@
 ### Looking to collaborate on anything I can!
 #
 <table>
-  <tr>    
-  🎓 I am currently enrolled in Microsoft Software & Systems Academy and pursuing my Bachelor's in Information Technology.
+  <tr>
+    <td>
+    🎓 I am currently enrolled in Microsoft Software & Systems Academy and pursuing my Bachelor's in Information Technology.
+    </td> 
   </tr>
   <tr>
       🌱 I am currently learning C# and .NET.
