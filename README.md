@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yumulak&show_icons=true&locale=en" alt="yumulak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yumulak&" alt="yumulak" /></p>
+[![Project Card](https://projectcard.rohitv.repl.co/project_card/{user}/{repo})](https://github.com/{user}/{repo})
