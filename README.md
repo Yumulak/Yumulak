@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumulak&label=Profile%20views&color=0e75b6&style=flat" alt="yumulak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumulak" alt="yumulak" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on [CarManager2.0](https://github.com/Yumulak/CarManager2.0)
 
 - 🌱 I’m currently learning **.NET MAUI, Microsoft Azure**
