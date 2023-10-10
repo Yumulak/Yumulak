@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumulak" alt="yumulak" /></a> </p>
 
-- 🔭 I’m currently working on [CarManager2.0](https://github.com/Yumulak/CarManager2.0),[ASP.NET MVC Weather App]
-(https://github.com/Yumulak)
+- 🔭 I’m currently working on [CarManager2.0](https://github.com/Yumulak/CarManager2.0)
 
 - 🌱 I’m currently learning **ASP.NET, Microsoft Azure**
 
