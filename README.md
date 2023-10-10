@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CarManager2.0](https://github.com/Yumulak/CarManager2.0)
 
-- 🌱 I’m currently learning **.NET MAUI, Microsoft Azure**
+- 🌱 I’m currently learning **ASP.NET, Microsoft Azure**
 
 - 💬 Ask me about **C#, Unity, .NET**
 
