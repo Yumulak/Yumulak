@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [CarManager (.NET MAUI Mobile App)](https://github.com/Yumulak/CarManager2.0) and [Weatherly (ASP.NET MVC App)](https://github.com/Yumulak/ASP.NET-MVC-Weather-App/tree/main)
 
-- 🌱 I’m currently learning **ASP.NET, Microsoft Azure**
+- 🌱 I’m currently learning **ASP.NET BLazor, Microsoft Azure**
 
 - 💬 Ask me about **C#, Unity, .NET**
 
