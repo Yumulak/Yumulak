@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumulak" alt="yumulak" /></a> </p>
 
-- <!-- 🔭 I’m currently working on [CarManager (.NET MAUI Mobile App)](https://github.com/Yumulak/CarManager2.0) and [Weatherly (ASP.NET MVC App)](https://github.com/Yumulak/ASP.NET-MVC-Weather-App/tree/main) -->
+<!-- - 🔭 I’m currently working on [CarManager (.NET MAUI Mobile App)](https://github.com/Yumulak/CarManager2.0) and [Weatherly (ASP.NET MVC App)](https://github.com/Yumulak/ASP.NET-MVC-Weather-App/tree/main) -->
 
 - 🌱 I’m currently learning **.NET MAUI**
 
