@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **.NET MAUI** -->
 
-- 💬 Ask me about **C#, Unity, .NET**
+💬 Ask me about **C#, Unity, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
